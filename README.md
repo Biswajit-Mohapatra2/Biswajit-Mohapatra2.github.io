@@ -13,7 +13,7 @@
 - Download the project as a zip file or use below command
 
 ```
-git clone  file name
+git clone https://github.com/Biswajit-Mohapatra2/Password-Generator_app.git  file name
 ```
 
 - open live server.
